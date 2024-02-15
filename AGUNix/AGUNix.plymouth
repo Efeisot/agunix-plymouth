@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=AGUNix
+Description=AGU NixOS Distro Plymouth Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/AGUNix/output
+ScriptFile=/usr/share/plymouth/themes/AGUNix/animated-boot.script
